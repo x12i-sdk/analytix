@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/analytix",
+  "packageVersion": "1.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/analytix",
+  "usageRepository": "https://github.com/x12i-sdk/analytix",
+  "sourceRepository": "https://github.com/x12i/analytix",
+  "sourceCommit": "cf2ed708652df6f853af877340acc385d17c76f2",
+  "sourcePackageDirectory": "packages/analytix",
+  "example": {
+    "title": "Run a catalog query over in-memory source records",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:33:09.627661+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "9cf28edde94aad50fbae0095d8a4ebac3f636f201cae90de11393b80e1e20790",
+    "manifestSha256": "1ad8cbed8601e5bebecfd3b34042487cf6f0bb8706c6c969356e5c2e485ca2fe"
+  },
+  "validationFiles": {
+    "src/index.mjs": "9cf28edde94aad50fbae0095d8a4ebac3f636f201cae90de11393b80e1e20790"
+  }
+}
